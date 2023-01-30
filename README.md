@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris!
-- 👀 I’m interested in backend development, embedded systems and IoT, and robotics! 
+- 👀 I’m interested in backend development, embedded systems, IoT, and robotics! 
 - 🌱 I’m currently learning about real time operating systems, analog control systems, and hardware! 
 - 💞️ I’m looking to collaborate on open source projects and research opportunities!
 - 📫 How to reach me: Christopher Santos on LinkedIn or c7santos@uwaterloo.ca
