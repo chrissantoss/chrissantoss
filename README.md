@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Chris!
-- 👀 I’m interested in backend development, embedded systems, IoT, and robotics! 
-- 🌱 I’m currently learning about real time operating systems, analog control systems, and hardware! 
-- 💞️ I’m looking to collaborate on open source projects and research opportunities!
+- 👋 Hi, I’m Chris, I am a third-year Computer Engineering student at the University of Waterloo.
+- 👀 I’m interested in deep learning, embedded systems, and robotics. 
+- 🌱 I’m looking to collaborate on open-source projects and research opportunities!
 - 📫 How to reach me: Christopher Santos on LinkedIn or c7santos@uwaterloo.ca
 
 <!---
